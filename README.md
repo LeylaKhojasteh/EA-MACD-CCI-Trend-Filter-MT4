@@ -58,14 +58,14 @@ Test Settings:
 - Test Period: 2 years
 - Total Trades: 3,272
 - Modeling Quality: 90%
-- Spread: Current (23)
+- Spread: Current (24)
 
 Results:
 
-- Net Profit: $5,016.56
+- Net Profit: $4,852.96
 - Profit Factor: 1.10
-- Expected Payoff: $1.53
-- Max Drawdown: 16.91%
+- Expected Payoff: $1.48
+- Max Drawdown: 17.15%
 
 ![Backtest Report](Images/2.png)
 
